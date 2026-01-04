@@ -11,3 +11,4 @@ Each document focuses on:
 - Practical steps
 - Key findings
 - Conclusion and takeaways
+- [Phishing Analysis Fundamentals](./phishing-analysis-fundamentals.md)
